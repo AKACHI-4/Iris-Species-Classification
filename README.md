@@ -8,7 +8,7 @@ This repository contains code and configurations for deploying a machine learnin
 
 ## Repo Structure 
 
-The repository includes a `notebook.ipynb` file, which contains all the necessary dependencies and step-by-step instructions for use within Azure ML Studio.
+The repository includes a [notebook.ipynb](notebook.ipnyb) file, which contains all the necessary dependencies and step-by-step instructions for use within Azure ML Studio.
 
 ## Prerequisites
 
